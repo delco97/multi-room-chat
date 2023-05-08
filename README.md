@@ -2,8 +2,6 @@
 
 ![Demo](./docs/demo.gif)
 
-# Readme: Chat Server
-
 This is a Java project that implements a chat server and clinet application capable of supporting multiple chat rooms simultaneously. The project is diveded in two part:
 - Client Chat
 - Server Chat
