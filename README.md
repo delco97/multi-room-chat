@@ -1,4 +1,4 @@
-# Multi room CHat
+# Multi room Chat
 
 ![Demo](./docs/demo.gif)
 
